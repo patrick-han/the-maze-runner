@@ -14,7 +14,7 @@ The design files for the PCB's and code are included in this repository.
 
 This project was worked on by:
 
-Patrick Han (patrick-han), Chiraag Kaushik, Tommy Yuan (ty19)
+Patrick Han (patrick-han), Chiraag Kaushik (chiraagk7), Tommy Yuan (ty19)
 
 
 A detailed report for this project can be found here: https://github.com/patrick-han/the-maze-runner/blob/master/Project%20Report.pdf
