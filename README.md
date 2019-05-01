@@ -12,6 +12,12 @@ b) Controlling those servos using a wireless joystick controller
 
 The design files for the PCB's and code are included in this repository.
 
+This project was worked on by:
+
+Patrick Han
+Chiraag Kaushik
+Tommy Yuan
+
 
 A detailed report for this project can be found here: https://github.com/patrick-han/the-maze-runner/blob/master/Project%20Report.pdf
 
