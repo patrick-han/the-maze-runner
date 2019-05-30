@@ -17,6 +17,6 @@ This project was worked on by:
 Patrick Han (patrick-han), Chiraag Kaushik (chiraagk7), Tommy Yuan (ty19)
 
 
-A detailed report for this project can be found here: https://github.com/patrick-han/the-maze-runner/blob/master/Project%20Report.pdf
+A detailed report for this project can be found in the Documentation folder of this repository.
 
 Here is the associated website with videos!: https://patrick-han.github.io/ee_projects/the-maze-runner.html
